@@ -169,6 +169,8 @@ Hyperparameters used in the notebook can be mentioned here
 
 You also exported and visualized the decision tree, which clearly shows splits such as odor, gill size and spore print color.
 
+![Image](https://github.com/user-attachments/assets/824bd02d-bd34-47c8-a2b2-ca09d6c81f49)
+
 <img width="1869" height="997" alt="Image" src="https://github.com/user-attachments/assets/36544d7a-fc40-46cc-807b-3d31154ca394" />
 
 
@@ -180,6 +182,8 @@ You also exported and visualized the decision tree, which clearly shows splits s
 * More robust and less likely to overfit than a single tree.
 
 Random Forest is used as the final model because it achieves the best performance.
+
+![Image](https://github.com/user-attachments/assets/0afbf74d-04f5-484f-b84f-c42fdf64221c)
 
 <img width="1873" height="1017" alt="Image" src="https://github.com/user-attachments/assets/accd945a-8d7c-4545-a909-849d2cb6d178" />
 
